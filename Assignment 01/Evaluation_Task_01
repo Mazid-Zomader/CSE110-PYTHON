@@ -1,6 +1,0 @@
-# E1
-a = int(input())
-b = int(input())
-c = int(input())
-d = float(input())
-print(int((a**c)+(2*b)*(a//2)-d/3))
