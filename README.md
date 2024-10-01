@@ -1,6 +1,6 @@
 # CSE110
 ## Python Basics
-## Brac University - Fall 2023
+# Brac University - Fall 2023
 
 Welcome to the GitHub repository for the **Programming Language I** course, **CSE110**, at **Brac University** for the **Fall 2023** semester.
 
